@@ -2,7 +2,7 @@
 
 <br><br>
 
-- 🔥 Software Developer focused on backend
+- 🔥 Software engineer focused on backend
 - 🔭 I’m currently working on [Tecnospeed](https://tecnospeed.com.br/)
 - 💬 Ask me about **JavaScript, NodeJS, Typescript**
 - 🌱 I’m currently learning **NestJS, .NET, GraphQL, IaC**
