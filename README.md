@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Gustavo Santos
+### Hi, I'm Gustavo Santos
 
 <br><br>
 
