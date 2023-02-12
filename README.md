@@ -3,7 +3,7 @@
 <br><br>
 
 - 🔥 Software engineer focused on backend
-- 🔭 I’m currently working on [Tecnospeed](https://tecnospeed.com.br/)
+- 🔭 I’m currently working on [LeadLovers](https://www.leadlovers.com/)
 - 💬 Ask me about **JavaScript, NodeJS, Typescript**
 - 🌱 I’m currently learning **NestJS, .NET, GraphQL, IaC**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavo-cesar-b793ba167/)
