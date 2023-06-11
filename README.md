@@ -5,7 +5,7 @@
 - 🔥 Software engineer focused on backend
 - 🔭 I’m currently working on [LeadLovers](https://www.leadlovers.com/)
 - 💬 Ask me about **JavaScript, NodeJS, Typescript**
-- 🌱 I’m currently learning **NestJS, .NET, GraphQL, IaC**
+- 🌱 I’m currently learning **NestJS, AWS, Azure, IaC**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavo-cesar-b793ba167/)
 
 <br><br>
@@ -17,10 +17,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 
 <br><br>
 
