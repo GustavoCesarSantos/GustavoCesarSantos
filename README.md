@@ -5,7 +5,7 @@
 - 🔥 Software engineer focused on backend
 - 🔭 I’m currently working on [LeadLovers](https://www.leadlovers.com/)
 - 💬 Ask me about **JavaScript, NodeJS, Typescript**
-- 🌱 I’m currently learning **NestJS, AWS, Azure, IaC**
+- 🌱 I’m currently learning **NestJS, GO, AWS, Azure, IaC**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gustavo-cesar-santos/)
 
 <br><br>
